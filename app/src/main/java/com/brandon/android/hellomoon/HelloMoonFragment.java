@@ -19,4 +19,10 @@ public class HelloMoonFragment extends Fragment {
 
         return v;
     }//end onCreateView(LayoutInflater, ViewGroup, Bundle)
+
+    @Override
+    public void onDestroy(){
+        super.onDestroy();
+        mPlayer.stop;
+    }//end onDestroy()
 }//end HelloMoonFragment class
