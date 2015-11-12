@@ -52,11 +52,11 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/brandon/android/hellomoon/AudioPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#461#633#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#461#603#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,10 +65,14 @@
       <file leaf-file-name="HelloMoonFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/brandon/android/hellomoon/HelloMoonFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7701342">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.8271812">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#704#841#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#957#1081#0" expanded="true" />
+                <element signature="e#1080#1081#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2197,21 +2201,25 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/brandon/android/hellomoon/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#461#633#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#461#603#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/brandon/android/hellomoon/HelloMoonFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7701342">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.8271812">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#704#841#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#957#1081#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
           </folding>
         </state>
       </provider>
