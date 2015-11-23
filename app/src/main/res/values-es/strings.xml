@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hola Luna</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hellomoon_play">Tocar</string>
+    <string name="hellomoon_stop">Detener</string>
+    <string name="hellomoon_description">Neil Armstrong a punto de pararse en la luna.</string>
+</resources>
